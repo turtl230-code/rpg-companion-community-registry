@@ -614,5 +614,20 @@
     "github_repo": "Pyr0Gnous/Atlas-Frontiers",
     "repo_url": "https://Pyr0Gnous.github.io/Atlas-Frontiers/",
     "has_system": false
+  },
+  {
+    "name": "Gunslinger-class-and-weapons-with-bullets",
+    "description": "This repository is for a Gunner class i liked from 'Zamans guide to the end of time (and how to fix it) all credits go to them and I've turned it into a repository for everyone to use. Please forgive any weird typos or anything as I hand typed it all and changed some names of things and such. Please support 'Zamans guide to the end of time' ",
+    "tags": [
+      "5e",
+      "5e2024",
+      "homebrew",
+      "cowboy",
+      "gunslinger"
+    ],
+    "stars": 0,
+    "github_repo": "turtl230-code/Gunslinger-class-and-weapons-with-bullets",
+    "repo_url": "https://turtl230-code.github.io/Gunslinger-class-and-weapons-with-bullets/",
+    "has_system": false
   }
 ]
